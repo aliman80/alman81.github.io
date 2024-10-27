@@ -13,7 +13,7 @@ I received my Masters degree in Wireless Communications  from the [Lunds Tecknis
 
 ## Research Interests
 
-I am broadly interested in Multi-modal Generative and Discriminative learning in the realm of Label-efficiency with applications to problems in 1. Test-time out-of-distribution generalization, 2. Unifying generative and discriminative spaces. 3. World-centric evaluation of Multi-modal models and 4. Self-supervised learning. 
+I am broadly interested in 1. Computer Vision in the cluttered Environment especially focussing complex enviornment . 2. World-centric evaluation of Multi-modal models and 2. Zeroshot learning 
 
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
