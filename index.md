@@ -1,6 +1,5 @@
 
 ---
-layout: homepage
 ---
 
 ## About Me
@@ -19,10 +18,11 @@ I am broadly interested in Multi-modal Generative and Discriminative learning in
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
-- **[June. 2024]** Our paper "MedContext: Learning Contextual Cues for Efficient Volumetric Medical Segmentation" got accepted at **MICCAI 2024**.
-- **[June. 2024]** One paper accepted at **IEEE ICIP 2024**.
-- **[March. 2024]** Awarded **ICLR 2024 Travel Grant**.
-- **[Jan. 2024]** Our paper "LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts" got accepted at **ICLR 2024**.
+- **[June. 2024]** Our paper "FANET: Feature Amplification Network for Semantic Segmentation in Cluttered Back-
+ground, " got accepted at **IEEE ICIP 2024**.
+- **[June. 2023]** One paper accepted at **ICCV Workshop**.
+- **[Feb. 2023]** Two papers accepted at  **VISAPP **.
+- **[Sep. 2022]** Our paper "Underwater object detection Enhancement using channel stablization" got accepted at **DICTA 2022**.
 - **[Oct. 2023]** Awarded **NeurIPS 2023 Travel Grant**.
 - **[Sept. 2023]** Our paper "Align your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization" got accepted at **NeurIPS 2023**.
 - **[June. 2023]** Joined Visual Computing Center (VCC) at [KAUST](https://cemse.kaust.edu.sa/vcc) as a Visiting Student under [Professor Peter Wonka](https://peterwonka.net/).
