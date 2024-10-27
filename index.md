@@ -20,13 +20,10 @@ I am broadly interested in Multi-modal Generative and Discriminative learning in
 ## News
 - **[June. 2024]** Our paper "FANET: Feature Amplification Network for Semantic Segmentation in Cluttered Back-
 ground, " got accepted at **IEEE ICIP 2024**.
-- **[June. 2023]** One paper accepted at **ICCV Workshop**.
+- **[June. 2023]** Our paper " CLIPDecoder: ZeroShot Multilabel Classification
+using Multimodal CLIP Aligned Representations accepted at **ICCV Workshop**.
 - **[Feb. 2023]** Two papers accepted at  **VISAPP **.
 - **[Sep. 2022]** Our paper "Underwater object detection Enhancement using channel stablization" got accepted at **DICTA 2022**.
-- **[Oct. 2023]** Awarded **NeurIPS 2023 Travel Grant**.
-- **[Sept. 2023]** Our paper "Align your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization" got accepted at **NeurIPS 2023**.
-- **[June. 2023]** Joined Visual Computing Center (VCC) at [KAUST](https://cemse.kaust.edu.sa/vcc) as a Visiting Student under [Professor Peter Wonka](https://peterwonka.net/).
-- **[Jan. 2023]** Our **US patent** about training Vision Transformers on small-scale datasets got approved for filing.
   
 <!--- - **[Sep. 2022]** I started  working with [Dr. Salman](https://salman-h-khan.github.io/) as a part of [Intelligent Visual Analytics Lab (IVAL)](https://www.ival-mbzuai.com/).
 - **[Sep. 2022]** I joined [MBZUAI](http://www.mbzuai.ac.ae) as a grad student in Machine Learning with full scholarship.
