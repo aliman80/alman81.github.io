@@ -1,5 +1,6 @@
 
 ---
+layout: homepage
 ---
 
 ## About Me
@@ -35,7 +36,6 @@ using Multimodal CLIP Aligned Representations accepted at **ICCV Workshop**.
 - **[August. 2018]** Our paper about disguised facial recognition got accepted to **IEEE ICSIP** 2018.
 - **[June. 2018]** I completed my undergraduate studies in Electronics and Communications Engineering from the [National Institute of Technology (NIT) Srinagar](https://nitsri.ac.in/).
 - **[Dec. 2017]** I joined as a Research Intern in [Computational Intelligence and UAV Lab](https://sites.google.com/site/compintellab/) at the [Indian Institute of Science, Bangalore](https://iisc.ac.in/) -->
+{% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
