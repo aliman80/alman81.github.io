@@ -1,29 +1,3 @@
----
-layout: homepage
----
-
-## About Me
-
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
-
-
-
 
 ---
 layout: homepage
@@ -31,10 +5,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a Research Associate at [Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)](http://www.mbzuai.ac.ae) and have recently obtained my Masters degree in machine learning from the same institution. At MBZUAI, I am affliated with the [Intelligent Visual Analytics Lab (IVAL)](https://www.ival-mbzuai.com/) where I am primarily advised by [Dr. Salman Khan](https://salman-h-khan.github.io/) and have a close collaboration with [Dr. Muzammal Naseer](https://muzammal-naseer.netlify.app/). My secondary advisor is [Dr. Fahad Khan](https://sites.google.com/view/fahadkhans/home). I have also worked as a visiting student with [Professor Peter Wonka](https://peterwonka.net/) at King Abdullah University of Science and Technology (KAUST). 
+I am currently a PhD student at [Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)](http://www.mbzuai.ac.ae). At MBZUAI, I am affliated with the [Intelligent Visual Analytics Lab (IVAL)](https://www.ival-mbzuai.com/) where I am primarily advised by [Dr. Salman Khan](https://salman-h-khan.github.io/). My secondary advisor is [Dr. Fahad Khan](https://sites.google.com/view/fahadkhans/home). 
 
-
-I received my undergraduate degree in Electronics and Communication Engineering with a minor in Computer Science from the [National Institute of Technology (NIT) Srinagar, India](https://nitsri.ac.in/). After graduation, I worked as a Machine Learning engineer at [Harman International (Samsung)](https://www.harman.com/India) before transitioning into academia in 2021 and joining MBZUAI as a Research Assistant under [Dr. Mohammad Yaqub](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ&hl=en)
+I received my Masters degree in Wireless Communications  from the [Lunds Teckniska Hogskola , LTH, Sweden](https://www.lth.se/). After graduation, I worked as a System Engineer at ACES, Pakistan) before again transitioning  into academia in 2020 and joining MBZUAI as a PhD student  under [Dr. Salman Khan](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ&hl=en)
 
 
 
