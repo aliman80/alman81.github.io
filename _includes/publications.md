@@ -16,8 +16,8 @@
     <div class="author"<strong>Muhammad Ali</strong>, Salman Khan </div>
     <div class="periodical"><em>Under review at COLING 2025</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2410.01407" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/umair1221/AgriCLIP/tree/main" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://openreview.net/forum?id=xSMycovgd3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FACL%2FARR%2F2024%2FOctober%2FAuthors%23your-submissions)" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c"></i></strong>
     </div>
   </div>
