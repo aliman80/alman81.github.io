@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2410.01407">RobustWasteChallenge: A Comprehensive Evaluation Framework for VLLMs in Cluttered and Degraded Environments</a></div>
     <div class="author"<strong>Muhammad Ali</strong>, Salman Khan </div>
-    <div class="periodical"><em>Under review at COLING 2025</em></div>
+    <div class="periodical"><em>Under review at NAACL 2025</em></div>
     <div class="links">
       <a href="https://openreview.net/forum?id=xSMycovgd3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FACL%2FARR%2F2024%2FOctober%2FAuthors%23your-submissions)" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
